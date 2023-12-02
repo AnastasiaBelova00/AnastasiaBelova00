@@ -1,5 +1,6 @@
-<h2 align="center">Всем привет, меня зовут Анастасия 🦭</h2>
-<h3 align="center">Я начинающий frontend-разработчик</h3>
+<h2 align="center">Привет! 🦭<br>
+Меня зовут Анастасия </h2>
+<h3 align="center">Я начинающий frontend-разработчик <img src="./programming-kiwi.gif" height="32"/></h3>
 
 ![](https://media.tenor.com/1o2QB94LBiQAAAAi/programming-kiwi.gif)
 
