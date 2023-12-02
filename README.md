@@ -2,7 +2,7 @@
 Меня зовут Анастасия </h2>
 <h3 align="center">Я начинающий frontend-разработчик <img src="https://www.canva.com/design/DAF11_pBkL8/3SGUclelZhVfVRCci0KSkA/watch?utm_content=DAF11_pBkL8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"/></h3> -->
 
-<img align="center" src="https://www.canva.com/design/DAF11_pBkL8/3SGUclelZhVfVRCci0KSkA/watch?utm_content=DAF11_pBkL8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"/>
+<img align="center" src="https://www.canva.com/design/DAF11_pBkL8/3SGUclelZhVfVRCci0KSkA/watch?utm_content=DAF11_pBkL8&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
 
 <!--
 **AnastasiaBelova00/AnastasiaBelova00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
