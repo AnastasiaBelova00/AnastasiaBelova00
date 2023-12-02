@@ -29,7 +29,8 @@ Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Git_Icon
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaBelova00&theme=panda)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaBelova00&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center">Спасибо, что дочитали и продержались до самого конца! <br>
-<img src="https://img.memegenerator.net/instances/43742458.jpg" height="200"/>
+<br>
+<img src="https://i.pinimg.com/originals/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="200"/>
 </h4>
 
 ![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
