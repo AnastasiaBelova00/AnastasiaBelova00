@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 size="15">
+<h3>
 🔮 СТЕК 🔮 <br>
 HTML + CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="20"/> <br>
 JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/9/3/a/93a14a817aba78c219b6421198863989.png" height="17"/> <br>
@@ -26,8 +26,10 @@ MongoDB <img src="https://media.slid.es/uploads/132631/images/5162178/mongodb.pn
 Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Git_Icon.svg/1200px-Git_Icon.svg.png" height="17"/> <br>
 </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaBelova00&theme=panda)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaBelova00&theme=panda)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaBelova00&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://i.pinimg.com/736x/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="70"/>
+<h4 align="center">Спасибо, что дочитали и продержались до самого конца!</h4>
+
+<img align="center" src="https://i.pinimg.com/736x/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="200"/>
 
 ![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
