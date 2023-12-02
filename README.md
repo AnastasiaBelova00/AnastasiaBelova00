@@ -27,7 +27,7 @@ Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Git_Icon
 
 <h3 align="center">Спасибо, что дочитали и продержались до самого конца! <br>
 <br>
-<img src="https://gifdb.com/images/high/that-s-what-she-said-michael-laughing-ebko39oaeoxo6ayj.gif"/> <br>
+<img src="https://media.tenor.com/xS9rmU-bfIUAAAAC/thats-what-she-said-what-she-said.gif"/> <br>
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
