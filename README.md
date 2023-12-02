@@ -30,7 +30,8 @@ Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Git_Icon
 
 <h4 align="center">Спасибо, что дочитали и продержались до самого конца! <br>
 <br>
-<img src="https://i.pinimg.com/originals/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="200"/>
-</h4>
-
+<img src="https://i.pinimg.com/originals/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="200"/> <br>
+<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
+</h4>
