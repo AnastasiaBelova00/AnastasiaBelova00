@@ -1,8 +1,7 @@
-<h2 align="center">Всем привет, меня зовут Анастасия
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="10" wight="10"/></h2>
+<h2 align="center">Всем привет, меня зовут Анастасия 🦭</h2>
 <h3 align="center">Я начинающий frontend-разработчик</h3>
 
-<img src="https://i.gifer.com/DK1.gif" wight="32"/>
+![](https://i.pinimg.com/originals/2d/cc/93/2dcc9384250518a03fc038c363b689b8.gif)
 
 <!--
 **AnastasiaBelova00/AnastasiaBelova00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
