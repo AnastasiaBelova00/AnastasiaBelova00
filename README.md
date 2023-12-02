@@ -1,7 +1,3 @@
-<!-- <h2 align="center">Привет! 🦭<br>
-Меня зовут Анастасия </h2>
-<h3 align="center">Я начинающий frontend-разработчик <img src="https://www.canva.com/design/DAF11_pBkL8/3SGUclelZhVfVRCci0KSkA/watch?utm_content=DAF11_pBkL8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"/></h3> -->
-
 <img align="center" src="./Привет!.gif"/>
 
 <!--
@@ -18,5 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>
+HTML + CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" wight="30"/> <br>
+JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/9/3/a/93a14a817aba78c219b6421198863989.png" wight="15"/>
+React
+Node.js 
+Webpack
+MongoDB
+Git
+
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
