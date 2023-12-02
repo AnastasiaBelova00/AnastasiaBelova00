@@ -1,7 +1,7 @@
 <h2 align="center">Всем привет, меня зовут Анастасия 🦭</h2>
 <h3 align="center">Я начинающий frontend-разработчик</h3>
 
-![](https://i.pinimg.com/originals/2d/cc/93/2dcc9384250518a03fc038c363b689b8.gif)
+![](https://media.tenor.com/1o2QB94LBiQAAAAi/programming-kiwi.gif)
 
 <!--
 **AnastasiaBelova00/AnastasiaBelova00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=AnastasiaBelova00)
+![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=ff69b4)
