@@ -26,6 +26,8 @@ MongoDB <img src="https://media.slid.es/uploads/132631/images/5162178/mongodb.pn
 Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Git_Icon.svg/1200px-Git_Icon.svg.png" height="17"/> <br>
 </h3>
 
-<img align="center" src="https://i.pinimg.com/736x/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="30"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaBelova00&color=c598af)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://i.pinimg.com/736x/7a/1e/b6/7a1eb6973e65863dfb70f628435b7d29.jpg" height="70"/>
 
 ![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
