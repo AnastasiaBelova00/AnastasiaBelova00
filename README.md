@@ -1,17 +1,13 @@
 <img align="center" src="./Привет!.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔘 В процессе изучения TypeScript и углубления в React
+🔘 Хочу осваивать новые фреймворки и препроцессоры
+🔘 Нацелена научиться писать эффективный, чистый, масштабируемый и читабельный код
+🔘 Хочу работать в команде с опытными коллегами и наставниками
 
 ---
 
-### 🔮 СТЕК 🔮
+### 🔮 СТЕК
 
 <p style="font-size: 15px;">
 HTML + CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="20"/> <br>
@@ -22,6 +18,8 @@ Webpack <img src="https://web-creator.ru/technologies/webpack.png" height="17"/>
 MongoDB <img src="https://media.slid.es/uploads/132631/images/5162178/mongodb.png" height="17"/> <br>
 Git <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Git_Icon.svg/1200px-Git_Icon.svg.png" height="17"/> <br>
 </p>
+
+### 📈 CТАТИСТИКА
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaBelova00&theme=panda)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaBelova00&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
