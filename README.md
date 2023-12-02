@@ -1,10 +1,5 @@
 <img align="center" src="./Привет!.gif"/>
 
-<!--
-**AnastasiaBelova00/AnastasiaBelova00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,13 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### 🔮 СТЕК 🔮
 
 ---
 
-<br>
+### 🔮 СТЕК 🔮
+
 <h3>
 HTML + CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="20"/> <br>
 JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/9/3/a/93a14a817aba78c219b6421198863989.png" height="17"/> <br>
