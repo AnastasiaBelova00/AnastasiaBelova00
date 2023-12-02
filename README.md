@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=AnastasiaBelova00&color=c598af)
